@@ -33,8 +33,8 @@ ii. Wav2vec 2.0 by Facebook (only researched, not implemented)
 
 Implemented the following libraries to deal with noise:
 
-https://pypi.org/project/logmmse/
-https://pypi.org/project/noisereduce/
+- https://pypi.org/project/logmmse/
+- https://pypi.org/project/noisereduce/
 
 CHECKPOINT 2 ------------------------- (08/06/2021)
 
@@ -43,5 +43,6 @@ Task given - Integrating everything so far into a Streamlit app.
 Word Done
 - Mainly, handled the integration of the denoiser.
 - Made overall changes to Streamlit Interface.
+- Final code: https://github.com/jdchawla29/BriefKing
 
 FINAL SUBMISSION ------------------------- (17/07/2021)
