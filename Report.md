@@ -37,3 +37,11 @@ https://pypi.org/project/logmmse/
 https://pypi.org/project/noisereduce/
 
 CHECKPOINT 2 ------------------------- (08/06/2021)
+
+Task given - Integrating everything so far into a Streamlit app.
+
+Word Done
+- Mainly, handled the integration of the denoiser.
+- Made overall changes to Streamlit Interface.
+
+FINAL SUBMISSION ------------------------- (17/07/2021)
